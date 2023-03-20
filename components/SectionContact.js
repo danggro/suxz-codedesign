@@ -9,7 +9,7 @@ export default function SectionContact() {
           So? What Are You Waiting For
         </h1>
         <h4 className="xl:text-2xl text-[12px] px-[30px] font-medium">
-          It's time to build your career, study in a relaxed and purposeful
+          It&apos;s time to build your career, study in a relaxed and purposeful
           manner
         </h4>
       </div>

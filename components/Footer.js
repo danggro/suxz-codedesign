@@ -21,12 +21,12 @@ export default function Footer() {
               </h4>
               <ul>
                 <li className="mb-1 xl:mb-5">
-                  <a
+                  <Link
                     href="/"
                     className="hover:underline xl:text-[22px] text-[12px] font-medium"
                   >
                     Home
-                  </a>
+                  </Link>
                 </li>
                 <li className="mb-1 xl:mb-5">
                   <Link

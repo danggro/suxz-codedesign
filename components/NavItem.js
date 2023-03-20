@@ -5,7 +5,7 @@ export default function NavItem() {
     <ul className="flex xl:space-x-[40px] xl:flex-row flex-col xl:space-y-0 space-y-3 xl:p-0 p-10">
       <li>
         <a
-          href="/"
+          href="#"
           className="text-lg font-semibold text-white xl:text-xl xl:text-primary/80 xl:hover:text-primary hover:underline "
         >
           Home
