@@ -1,4 +1,4 @@
-export default function ({ variant, children }) {
+export default function Button({ variant, children }) {
   const variants = {
     primary:
       "text-white bg-purple border border-purple hover:bg-white hover:text-purple ",

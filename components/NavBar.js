@@ -4,7 +4,7 @@ import NavItem from "./NavItem";
 import NavLogin from "./NavLogin";
 import NavLogo from "./NavLogo";
 
-export default function () {
+export default function Navbar() {
   const [offcanvas, setOffcanvas] = useState(false);
   return (
     <>
